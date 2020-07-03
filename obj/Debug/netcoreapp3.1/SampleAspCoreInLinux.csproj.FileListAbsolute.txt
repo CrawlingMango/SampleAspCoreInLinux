@@ -1,0 +1,13 @@
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux.deps.json
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux.runtimeconfig.json
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux.runtimeconfig.dev.json
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux.dll
+/home/jerome/Projects/SampleAspCoreInLinux/bin/Debug/netcoreapp3.1/SampleAspCoreInLinux.pdb
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.csprojAssemblyReference.cache
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.AssemblyInfoInputs.cache
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.AssemblyInfo.cs
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.csproj.CoreCompileInputs.cache
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.dll
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.pdb
+/home/jerome/Projects/SampleAspCoreInLinux/obj/Debug/netcoreapp3.1/SampleAspCoreInLinux.genruntimeconfig.cache
